@@ -1,9 +1,4 @@
 {
-    "taskDefinitionArns": [
-        "arn:aws:ecs:ap-south-1:987755625786:task-definition/cd:1"
-    ]
-}
-{
   "ipcMode": null,
   "executionRoleArn": "arn:aws:iam::987755625786:role/ecsTaskExecutionRole",
   "containerDefinitions": [
