@@ -1,0 +1,5 @@
+{
+    "taskDefinitionArns": [
+        "arn:aws:ecs:ap-south-1:987755625786:task-definition/cd:1"
+    ]
+}
