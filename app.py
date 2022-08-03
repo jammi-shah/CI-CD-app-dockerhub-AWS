@@ -8,10 +8,16 @@ app = Flask(__name__)
 
 @app.route("/")
 def main():
+###
+default message on homepage
+###
     return "Welcome!"
 
 @app.route('/how are you')
 def hello():
+###
+message on asking the question
+###
     return 'I am good, how about you?'
 
 if __name__ == "__main__":
