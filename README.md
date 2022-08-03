@@ -1,4 +1,4 @@
 # CI-CD-enabled-flask-app
-This is a demo app for github actions enabled CI/CD Pipeline which containerizes a python  framework namley flask based app usinng Actions.The workflow named upload to dockerhub biulds the docekrfile and pushes the build container to dockerhub.
-
-chxbhxb
+ This is a demo app for GitHub actions enabled CI/CD Pipeline. 
+ The Python framework used for the app is flask.    
+ Four workflows have been enabled on the repository.
