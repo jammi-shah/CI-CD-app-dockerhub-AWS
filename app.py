@@ -1,4 +1,3 @@
-
 ### This code represents a small flask app that picks up questions ###
 from flask import Flask
 app = Flask(__name__)
