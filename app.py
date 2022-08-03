@@ -1,5 +1,5 @@
-# This code represents a small flask app that picks up questions asked through query parameters then answers them
-# Questions that can be asked are: 1. how are you
+
+### This code represents a small flask app that picks up questions ###
 from flask import Flask
 app = Flask(__name__)
 @app.route("/")
